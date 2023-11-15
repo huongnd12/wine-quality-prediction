@@ -4,6 +4,7 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 
 - Number of Instances: red wine - 1599; white wine - 4898.
 - Input variables (based on physicochemical tests):
+  
    1 - fixed acidity
   
    2 - volatile acidity
