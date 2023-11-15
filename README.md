@@ -5,18 +5,29 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 - Number of Instances: red wine - 1599; white wine - 4898.
 - Input variables (based on physicochemical tests):
    1 - fixed acidity
+  
    2 - volatile acidity
+  
    3 - citric acid
+  
    4 - residual sugar
+  
    5 - chlorides
+  
    6 - free sulfur dioxide
+  
    7 - total sulfur dioxide
+  
    8 - density
+  
    9 - pH
+  
    10 - sulphates
+  
    11 - alcohol
-   Output variable (based on sensory data): 
+  
    12 - quality (score between 3 and 9)
+  
 The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones)
 
 In this project, I will divide the dataset into 3 classes:
